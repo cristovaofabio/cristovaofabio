@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaofabio&hide=css,html)
+
+
+<a href="https://stackoverflow.com/users/17054257/crist%c3%b3v%c3%a3o-f%c3%a1bio?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
+
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristovaofabio)
 --->
