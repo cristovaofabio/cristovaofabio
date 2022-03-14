@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Cristóvão Fábio
-- 👀 I’m interested in computer programming;
+- 💻 I'm a bachelor's degree in information systems;
 - 📚 I'm like to read about programming, innovations and business;
 - 📫 How to reach me: cristovaofabio3@gmail.com
 
