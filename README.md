@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Cristóvão Fábio
+## 👋 Hi, welcome to my github profile!
+- 👨 My name is Cristóvão Fábio;
 - 💻 I'm a bachelor's degree in information systems;
 - 📚 I'm like to read about programming, innovations and business;
-- 📫 How to reach me: cristovaofabio3@gmail.com
 
 <!---
 cristovaofabio/cristovaofabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
