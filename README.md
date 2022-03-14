@@ -1,5 +1,5 @@
 ## 👋 Hi, welcome to my github profile!
-- 👨 My name is Cristóvão Fábio;
+- 👀 My name is Cristóvão Fábio;
 - 💻 I'm a bachelor's degree in information systems;
 - 📚 I'm like to read about programming, innovations and business;
 
