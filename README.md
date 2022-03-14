@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Cristóvão Fábio
+## 👋 Hi, I’m Cristóvão Fábio
 - 👀 I’m interested in computer programming;
-- 🌱 I'm like to read about programming, innovations and business;
+- 📚 I'm like to read about programming, innovations and business;
 - 📫 How to reach me: cristovaofabio3@gmail.com
 
 <!---
