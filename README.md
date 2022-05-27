@@ -1,7 +1,7 @@
 ## 👋 Hi, welcome to my github profile!
 - 👀 My name is Cristóvão Fábio;
 - 💻 I'm a bachelor's degree in information systems;
-- 📚 I'm like to read about programming, innovations and business;
+- 📚 I like to read about programming, innovations and business;
 
 <!---
 cristovaofabio/cristovaofabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
